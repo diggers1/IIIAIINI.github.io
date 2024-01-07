@@ -1,0 +1,176 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fetch/3.6.2/fetch.min.js
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\ajax\libs\fetch\3.6.2\fetch.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/95523201
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\watch\95523201
+Content Type: image/gif
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.wildclient.ru/
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\index.htm
+Content Type: text/html
+
+Uri: https://www.wildclient.ru/assets/css/media.css?v=33
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\assets\css\media.css
+Content Type: text/css
+
+Uri: https://www.wildclient.ru/assets/css/normalize.css
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\assets\css\normalize.css
+Content Type: text/css
+
+Uri: https://www.wildclient.ru/assets/css/style.css?v=44
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.wildclient.ru/assets/img/8cfb76c8af04b72de1096c55862ae518 1.svg
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\assets\img\8cfb76c8af04b72de1096c55862ae518 1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/Bag 2 1.svg
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\assets\img\Bag 2 1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/burger-menu-svgrepo-com.svg
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\assets\img\burger-menu-svgrepo-com.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/Buy Icon.svg
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\assets\img\Buy Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/Ellipse 1.svg
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\assets\img\Ellipse 1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/Hide Icon.svg
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\assets\img\Hide Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/kisspng-telegram-computer-icons-logo-social-media-5af2fe4b5021d3 1.svg
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\assets\img\kisspng-telegram-computer-icons-logo-social-media-5af2fe4b5021d3 1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/Login 1.svg
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\assets\img\Login 1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/Optifine Icon.svg
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\assets\img\Optifine Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/pngegg (1) 1.svg
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\assets\img\pngegg (1) 1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/Settings Icon.svg
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\assets\img\Settings Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/img/W (1).svg
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\assets\img\W (1).svg
+Content Type: image/svg+xml
+
+Uri: https://www.wildclient.ru/assets/micromodal.css?v=55
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\assets\micromodal.css
+Content Type: text/css
+
+Uri: https://www.wildclient.ru/assets/micromodal.min.js
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\assets\micromodal.min.js
+Content Type: application/javascript
+
+Uri: https://www.wildclient.ru/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://www.wildclient.ru/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://www.wildclient.ru/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://www.wildclient.ru/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://www.wildclient.ru/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://www.wildclient.ru/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://www.wildclient.ru/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://www.wildclient.ru/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://www.wildclient.ru/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://www.wildclient.ru/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://www.wildclient.ru/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://www.wildclient.ru/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://www.wildclient.ru/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://www.wildclient.ru/contact.php
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\contact.php.html
+Content Type: text/html
+
+Uri: https://www.wildclient.ru/discord.php
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\discord.php.html
+Content Type: text/html
+
+Uri: https://www.wildclient.ru/eula.php
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\eula.php.html
+Content Type: text/html
+
+Uri: https://www.wildclient.ru/hwid.php
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\hwid.php.html
+Content Type: text/html
+
+Uri: https://www.wildclient.ru/img/maingbgif.gif
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\img\maingbgif.gif
+Content Type: image/gif
+
+Uri: https://www.wildclient.ru/privacypolicy.php
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\privacypolicy.php.html
+Content Type: text/html
+
+Uri: https://www.wildclient.ru/res/icon.png
+File Name: C:\Downloaded Web Sites\www.wildclient.ru\res\icon.png
+Content Type: image/png
+
